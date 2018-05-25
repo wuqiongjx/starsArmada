@@ -1,0 +1,13 @@
+{
+  "name": "星舰帝国",
+  "version": "0.0.1",
+  "description": "星舰帝国",
+  "main": "./星舰帝国.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuqiongjx/starsArmada"
+  },
+  "dependencies": {
+    "system-runtime": "^2.8.4"
+  }
+}
